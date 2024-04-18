@@ -1,2 +1,2 @@
-# C-Sharp-Projects
+# CSharp-Projects
 Projects in C# / Portfolio
