@@ -119,6 +119,4 @@ void AvaliarUmaBanda()
     }
 }
 
-
-
 ExibirOpcoesDoMenu();

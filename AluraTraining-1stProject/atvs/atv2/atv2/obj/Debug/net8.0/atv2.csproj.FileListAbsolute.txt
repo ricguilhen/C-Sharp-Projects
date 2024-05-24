@@ -1,0 +1,15 @@
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\bin\Debug\net8.0\atv2.exe
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\bin\Debug\net8.0\atv2.deps.json
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\bin\Debug\net8.0\atv2.runtimeconfig.json
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\bin\Debug\net8.0\atv2.dll
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\bin\Debug\net8.0\atv2.pdb
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.AssemblyInfoInputs.cache
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.AssemblyInfo.cs
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.csproj.CoreCompileInputs.cache
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.sourcelink.json
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.dll
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\refint\atv2.dll
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.pdb
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\atv2.genruntimeconfig.cache
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\AluraTraining-1stProject\atvs\atv2\atv2\obj\Debug\net8.0\ref\atv2.dll
