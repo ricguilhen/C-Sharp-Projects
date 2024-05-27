@@ -1,0 +1,15 @@
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\bin\Debug\net8.0\atv.exe
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\bin\Debug\net8.0\atv.deps.json
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\bin\Debug\net8.0\atv.runtimeconfig.json
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\bin\Debug\net8.0\atv.dll
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\bin\Debug\net8.0\atv.pdb
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.AssemblyInfoInputs.cache
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.AssemblyInfo.cs
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.csproj.CoreCompileInputs.cache
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.sourcelink.json
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.dll
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\refint\atv.dll
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.pdb
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\atv.genruntimeconfig.cache
+C:\Users\rickp\Documents\GitHub\CSharp-Projects\ScreenSound_2.0\atvs\atv\atv\obj\Debug\net8.0\ref\atv.dll
